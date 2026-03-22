@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data Files
+data/
+
+# ChromaDB
+chroma_db/
+chroma_500/
+chroma_1000/
+chroma_2000/
